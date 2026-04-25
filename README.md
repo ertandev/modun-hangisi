@@ -25,6 +25,9 @@ Proje tamamen frontend (HTML/CSS/JS) teknolojileriyle geliştirilmiştir. Herhan
 
 Bu proje kişisel kullanım için tasarlanmıştır ve kullanıcı verilerini sunucularda saklamaz.
 
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](file:///Users/Ertan/Desktop/MoodunHang%C4%B1s%C4%B1/LICENSE) altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+
 ---
 *Keyifli oyunlar!*
-# modun-hangisi
