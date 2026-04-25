@@ -27,7 +27,7 @@ Bu proje kişisel kullanım için tasarlanmıştır ve kullanıcı verilerini su
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](file:///Users/Ertan/Desktop/MoodunHang%C4%B1s%C4%B1/LICENSE) altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+Bu proje [MIT Lisansı](./LICENSE) altında lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
 
 ---
 *Keyifli oyunlar!*
